@@ -1,1 +1,4 @@
 # AI-Plagiarism-Detector-Agent
+This project presents an AI-Powered Plagiarism Detection Agent designed to identify paraphrased and AI-generated content in student assignments. Built using IBM Watsonx.ai and the Granite foundation model, the agent analyzes submissions by comparing them with historical assignments and instructor feedback. It uses semantic understanding and vector-based similarity search to flag content that lacks originality or shows signs of automated generation, helping maintain academic integrity.
+
+The agent is scalable, easy to integrate into learning platforms, and significantly reduces the manual workload of instructors. By providing context-aware plagiarism checks and detailed feedback, it supports fair evaluation and encourages students to submit authentic work. This repository contains the prompt templates, sample data files, and setup instructions to deploy the system using IBM Cloud Lite services.
